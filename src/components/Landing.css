@@ -1,0 +1,39 @@
+/* .content{
+   text-align:center;
+    padding-top: 10%;
+}
+
+.content h1{
+    font-size: 36px;
+    width: 50%;
+    line-height: 1.5;
+    margin: auto;
+    color: -webkit-linear-gradient(to right, #55f64f, #c471ed, #12c2e9);;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+ */
+
+.logo img{
+    height:60px;
+}
+
+.wrap{
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.landing-image{
+    width: 110%;
+    height: 100%;
+}
+.landing-image img{
+    padding-right: 40px;
+    width: 110%;
+    height: 100%;
+}
+
+.landing-form{
+    width: 90%;
+}

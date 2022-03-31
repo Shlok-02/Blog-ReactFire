@@ -1,0 +1,19 @@
+.centre{
+    margin-top: 25px;
+    text-align: center;
+}
+
+.centre button{
+    padding: 15px 35px;
+    margin: 0 20px;
+    background-color:rgb(18, 117, 231) ;
+    color: white;
+    border: none;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.centre button:hover{
+    padding: 13px 33px;
+    background-color:rgb(14, 99, 196) ;
+}

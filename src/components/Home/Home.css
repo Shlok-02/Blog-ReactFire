@@ -1,0 +1,39 @@
+.home-cover{
+    position: relative;
+    height: 70vh;
+    background-image: url('../Images/home_bg.jpg');
+    text-align: center;
+}
+
+.color{
+    background-color: #003267a4;
+    height: 70vh;
+    padding-top: 180px;
+}
+.home-cover::before{
+    content: "";
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    
+    opacity: .7;
+}
+
+.home-cover h1{
+    color: white;
+    z-index: -1;
+    font-size: 60px;
+    font-weight: 700;
+}
+
+.home-cover .content{
+    color: white;
+    z-index: -1;
+    font-weight: 400;
+    max-width: 700px;
+    margin: 0 auto;
+    letter-spacing: 1px;
+}

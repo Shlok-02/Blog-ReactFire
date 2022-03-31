@@ -1,0 +1,36 @@
+.about-landing{
+    width: 80%;
+    margin: auto;
+}
+
+.goal{
+    display: flex;
+    align-items: center;
+    margin-top:50px ;
+}
+
+.goal-img{
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.goal-img img{
+    width: 100%;
+    text-align: center;
+}
+
+.goal-content{
+    width: 120%;
+}
+
+.goal-content span{
+    color: #248eff;
+    font-weight: bolder;
+}
+
+
+.achieve img{
+    width: 90%;
+    border-radius: 300px;
+}
